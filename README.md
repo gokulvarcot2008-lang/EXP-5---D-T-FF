@@ -95,7 +95,6 @@ module tb5;
 endmodule
 
 
-
 ## Truth Table
 
 <img width="349" height="264" alt="image" src="https://github.com/user-attachments/assets/d05e6f9d-ff68-466e-9eb8-52e22fa1b961" />
